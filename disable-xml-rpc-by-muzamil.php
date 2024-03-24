@@ -18,5 +18,4 @@ function block_xmlrpc_requests() {
 }
 
 // Hook our function into the appropriate WordPress action
-add_action( 'init', 'block_xmlrpc_requests' ); 
-?> 
+add_action( 'init', 'block_xmlrpc_requests' );
