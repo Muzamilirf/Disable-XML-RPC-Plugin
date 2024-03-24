@@ -8,8 +8,9 @@ This WordPress plugin offers a straightforward solution to disable XML-RPC on yo
 
 Blocks XML-RPC requests to your site.
 
+# Installation
 Download the latest version of the plugin from the GitHub repository.
-Upload the Zip file to the /wp-content/plugins/ directory of your WordPress installation.
+Upload the "disable-xml-rpc-by-muzamil.zip" file to the /wp-content/plugins/ directory of your WordPress installation.
 Activate the plugin through the 'Plugins' menu in your WordPress admin panel.
 
 # FAQ
